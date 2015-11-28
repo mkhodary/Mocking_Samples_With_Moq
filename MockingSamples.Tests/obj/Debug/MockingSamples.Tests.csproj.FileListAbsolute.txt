@@ -1,0 +1,11 @@
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\MockingSamples.Tests.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\MockingSamples.Tests.pdb
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\MockingSamples.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\Moq.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\nunit.framework.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\MockingSamples.pdb
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\Moq.xml
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\bin\Debug\nunit.framework.xml
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\obj\Debug\MockingSamples.Tests.csprojResolveAssemblyReference.cache
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\obj\Debug\MockingSamples.Tests.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples.Tests\obj\Debug\MockingSamples.Tests.pdb

@@ -1,0 +1,5 @@
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples\bin\Debug\MockingSamples.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples\bin\Debug\MockingSamples.pdb
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples\obj\Debug\MockingSamples.csprojResolveAssemblyReference.cache
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples\obj\Debug\MockingSamples.dll
+c:\users\moham_000\documents\visual studio 2013\Projects\MockingSamples\MockingSamples\obj\Debug\MockingSamples.pdb
